@@ -1,0 +1,236 @@
+{
+  "profile": {
+    "name": "Suryansh Garg",
+    "bankName": "Bank B",
+    "accountType": "Savings Max Account",
+    "accountNumber": "XXXX5521908"
+  },
+  "accountSummary": {
+    "currentBalance": 415000.00,
+    "averageMonthlyBalance": 400000.00,
+    "savingsInterestRate": 3.00,
+    "creditCard": {
+      "name": "Bank B Regalia Gold",
+      "annualFee": 3500,
+      "rewardRate": 1.33
+    },
+    "personalLoan": {
+      "name": "Bank B Personal Loan",
+      "principal": 500000,
+      "tenureMonths": 36,
+      "interestRate": 14.50,
+      "monthlyEmi": 17212,
+      "remainingMonths": 24
+    }
+  },
+  "transactions": [
+    {
+      "id": "tx001",
+      "date": "2026-04-05",
+      "description": "Salary Credit - TechCorp",
+      "category": "Salary Credit",
+      "amount": 120000.00,
+      "type": "credit"
+    },
+    {
+      "id": "tx002",
+      "date": "2026-04-07",
+      "description": "Mutual Fund SIP - Bank B Top 100",
+      "category": "Mutual Fund SIP",
+      "amount": 10000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx003",
+      "date": "2026-04-10",
+      "description": "Zepto Groceries",
+      "category": "Grocery",
+      "amount": 1250.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx004",
+      "date": "2026-04-12",
+      "description": "ATM Withdrawal - Bank B Branch",
+      "category": "ATM Withdrawal",
+      "amount": 5000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx005",
+      "date": "2026-04-15",
+      "description": "Electricity Bill - Adani Power",
+      "category": "Utility",
+      "amount": 3450.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx006",
+      "date": "2026-04-20",
+      "description": "Zomato Dine-in Payment",
+      "category": "Dining",
+      "amount": 850.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx007",
+      "date": "2026-04-25",
+      "description": "Bank B Credit Card Auto-Debit",
+      "category": "Credit Card Payment",
+      "amount": 24500.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx008",
+      "date": "2026-05-01",
+      "description": "Personal Loan EMI Auto-Debit",
+      "category": "Loan EMI",
+      "amount": 17212.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx009",
+      "date": "2026-05-05",
+      "description": "Salary Credit - TechCorp",
+      "category": "Salary Credit",
+      "amount": 120000.00,
+      "type": "credit"
+    },
+    {
+      "id": "tx010",
+      "date": "2026-05-07",
+      "description": "Mutual Fund SIP - Bank B Top 100",
+      "category": "Mutual Fund SIP",
+      "amount": 10000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx011",
+      "date": "2026-05-12",
+      "description": "Blinkit Grocery Delivery",
+      "category": "Grocery",
+      "amount": 1820.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx012",
+      "date": "2026-05-18",
+      "description": "Uber Ride",
+      "category": "Travel",
+      "amount": 450.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx013",
+      "date": "2026-05-25",
+      "description": "Bank B Credit Card Auto-Debit",
+      "category": "Credit Card Payment",
+      "amount": 28000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx014",
+      "date": "2026-06-01",
+      "description": "Personal Loan EMI Auto-Debit",
+      "category": "Loan EMI",
+      "amount": 17212.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx015",
+      "date": "2026-06-05",
+      "description": "Salary Credit - TechCorp",
+      "category": "Salary Credit",
+      "amount": 120000.00,
+      "type": "credit"
+    },
+    {
+      "id": "tx016",
+      "date": "2026-06-07",
+      "description": "Mutual Fund SIP - Bank B Top 100",
+      "category": "Mutual Fund SIP",
+      "amount": 10000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx017",
+      "date": "2026-06-15",
+      "description": "ATM Withdrawal - Airport",
+      "category": "ATM Withdrawal",
+      "amount": 10000.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx018",
+      "date": "2026-06-20",
+      "description": "Dineout - Mainland China",
+      "category": "Dining",
+      "amount": 2300.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx019",
+      "date": "2026-06-25",
+      "description": "Bank B Credit Card Auto-Debit",
+      "category": "Credit Card Payment",
+      "amount": 22500.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx020",
+      "date": "2026-07-01",
+      "description": "Personal Loan EMI Auto-Debit",
+      "category": "Loan EMI",
+      "amount": 17212.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx021",
+      "date": "2026-07-02",
+      "description": "Swiggy Instamart Grocery",
+      "category": "Grocery",
+      "amount": 980.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx022",
+      "date": "2026-04-26",
+      "description": "Bank B Card Annual Fee",
+      "category": "Charges",
+      "amount": 3500.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx023",
+      "date": "2026-05-15",
+      "description": "Other Bank ATM Fee",
+      "category": "Charges",
+      "amount": 125.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx024",
+      "date": "2026-04-18",
+      "description": "Non-home branch ATM Fee",
+      "category": "Charges",
+      "amount": 250.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx025",
+      "date": "2026-05-18",
+      "description": "SMS Alert Charges & ATM Fee",
+      "category": "Charges",
+      "amount": 150.00,
+      "type": "debit"
+    },
+    {
+      "id": "tx026",
+      "date": "2026-06-28",
+      "description": "International Transaction ATM Fee",
+      "category": "Charges",
+      "amount": 500.00,
+      "type": "debit"
+    }
+  ]
+}
