@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react" alt="React 18" />
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?logo=tailwindcss" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
+
 </p>
 
 <h1 align="center">🏦 ProofBank AI</h1>
@@ -337,11 +337,6 @@ This is a **frontend prototype / proof-of-concept**. Here's what's built and wha
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   Built with 💙 by <strong>Team ProofBank AI</strong>
